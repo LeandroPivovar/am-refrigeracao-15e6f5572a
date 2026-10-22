@@ -1,0 +1,6 @@
+.aroe-crm.json
+.vercel/
+.taste-skill/
+.env
+.env.*
+node_modules/
